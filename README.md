@@ -17,6 +17,8 @@ comparing the ground_truth Skeleton with predicted Skeleton:
 https://user-images.githubusercontent.com/82935599/235225446-35619024-0e2d-462a-b84c-54e6f310c27a.mp4
 
 we can learn more about Blazepose ,here:
-https://github.com/google/mediapipe/blob/master/docs/solutions/pose.md](https://developers.google.com/mediapipe/solutions/setup_python https://github.com/google/mediapipe/blob/master/docs/solutions/pose.md 
-ai.googleblog.com/2020/08/on-device-real-time-body-pose-tracking.html)
+https://github.com/google/mediapipe/blob/master/docs/solutions/pose.md
+https://developers.google.com/mediapipe/solutions/setup_python
+https://github.com/google/mediapipe/blob/master/docs/solutions/pose.md 
+ai.googleblog.com/2020/08/on-device-real-time-body-pose-tracking.html
 
