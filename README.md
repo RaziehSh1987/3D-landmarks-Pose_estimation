@@ -10,3 +10,8 @@ the output is:
 
 https://user-images.githubusercontent.com/82935599/235225239-ad8b83cc-ba77-460e-adff-eda826ef2bc0.mp4
 
+comparing the ground_truth Skeleton with predicted Skeleton:
+
+
+https://user-images.githubusercontent.com/82935599/235225446-35619024-0e2d-462a-b84c-54e6f310c27a.mp4
+
