@@ -5,7 +5,7 @@ now, we should give the address of each cordinates to Show_Skeleton.cs  code to 
 tip: drag and drop  the "Show_Skeleton.cs" into a Main_Camera 
 tip: in unity --> we must add multi mini Circles in the scene with the corespond material then assigne each circle to each corespond variable of Show_Skeleton.cs script in Main_Camera
 the result of Predicted 3d Landmarks with Blazepose is:
-https://github.com/google/mediapipe/blob/master/docs/solutions/pose.md
+
 
 
 
@@ -16,3 +16,5 @@ comparing the ground_truth Skeleton with predicted Skeleton:
 
 https://user-images.githubusercontent.com/82935599/235225446-35619024-0e2d-462a-b84c-54e6f310c27a.mp4
 
+we can learn more about Blazepose ,here:
+https://github.com/google/mediapipe/blob/master/docs/solutions/pose.md
