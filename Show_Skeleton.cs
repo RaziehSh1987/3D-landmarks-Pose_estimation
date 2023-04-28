@@ -621,7 +621,7 @@ public class Show_Skeleton : MonoBehaviour
         Draw_Line_Original(RightKnee.position, RightAnkle.position, j_original + 13);
         
 
-        // ii_original = ii_original- 1;
+        ii_original = ii_original- 1;
         return ii_original;
        
     }
