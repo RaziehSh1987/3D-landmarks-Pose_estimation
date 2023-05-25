@@ -22,3 +22,10 @@ https://developers.google.com/mediapipe/solutions/setup_python
 https://github.com/google/mediapipe/blob/master/docs/solutions/pose.md 
 ai.googleblog.com/2020/08/on-device-real-time-body-pose-tracking.html
 
+below plot is displaying the ground truth skeleton with all loss function for all landmarks,red circle= high loss function(bad) , green=good loss function and good result:
+
+https://github.com/RaziehSh1987/3D-landmarks-Pose_estimation/assets/82935599/fc09b137-cd5d-4dbf-8175-b23c52df37f8
+
+![image](https://github.com/RaziehSh1987/3D-landmarks-Pose_estimation/assets/82935599/6e56e690-5617-4695-a9b6-cd25a2cc4bc1)
+
+
