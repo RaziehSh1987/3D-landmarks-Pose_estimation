@@ -21,7 +21,13 @@ https://github.com/google/mediapipe/blob/master/docs/solutions/pose.md
 https://developers.google.com/mediapipe/solutions/setup_python
 https://github.com/google/mediapipe/blob/master/docs/solutions/pose.md 
 ai.googleblog.com/2020/08/on-device-real-time-body-pose-tracking.html
+ to find a best angle and best distances of camera, I captured 750 different angles and distances of animation like below:
+ 
 
+https://github.com/RaziehSh1987/3D-landmarks-Pose_estimation/assets/82935599/cfea708a-2332-423c-b466-b06fc71c7834
+
+
+ then I've given the video to my model (BlazePose3D_Using_2D_Keypoints_all.ipynb) to predict the 3d coordinates and after that I've ploted the loss function to gain the accuarcy of model.
 below plot is displaying the ground truth skeleton with all loss function for all landmarks,red circle= high loss function(bad) , green=good loss function and good result:
 
 https://github.com/RaziehSh1987/3D-landmarks-Pose_estimation/assets/82935599/fc09b137-cd5d-4dbf-8175-b23c52df37f8
