@@ -34,9 +34,19 @@ https://github.com/RaziehSh1987/3D-landmarks-Pose_estimation/assets/82935599/fc0
 
 ![image](https://github.com/RaziehSh1987/3D-landmarks-Pose_estimation/assets/82935599/6e56e690-5617-4695-a9b6-cd25a2cc4bc1)
 
+
 Camera Configurations:
+
 Quantifying model performance with a 3D grid of points surrounding the animation skeleton.
+
  Points converted to spherical coordinates: Radius, Azimuth, and Elevation.
-  
+  ![Screenshot from 2023-08-29 23-18-56](https://github.com/RaziehSh1987/3D-landmarks-Pose_estimation/assets/82935599/126a420c-f96e-496c-9029-1901719ed713)
+
+Analysis of camera configurations and their impact on character joint prediction accuracy.
+
+Optimal camera distance, elevation, and azimuth for best results
+
+
+![image](https://github.com/RaziehSh1987/3D-landmarks-Pose_estimation/assets/82935599/03bf59bb-4b43-41d2-85a2-abee7e68f755)
 
 
