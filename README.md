@@ -1,4 +1,13 @@
 # 3D-landmarks-Pose_estimation
+
+This below link is my thesis presentation for this repository:
+https://docs.google.com/presentation/d/e/2PACX-1vRLcMyNIFnfC8-tBpZ2aBrqCC2ou3Um9MNkX2QcJwBNZ3Wa982TMSxePJaMN-mTXw/pub?start=false&loop=false&delayms=3000
+
+![image](https://github.com/RaziehSh1987/3D-landmarks-Pose_estimation/assets/82935599/f6950543-1106-4b6b-9917-56d709233bf8)
+
+
+![image](https://github.com/RaziehSh1987/3D-landmarks-Pose_estimation/assets/82935599/153c04de-33bb-47d4-8342-b42779457ebe)
+
 "BlazePose3D_Using_2D_Keypoints.ipynb" is a correct code(but MediaPipe code doesn't have a precise output),just we must set the address of 2D video as a file_path 
 then this code save the coordinates of all frames of video in a txt file
 now, we should give the address of each cordinates to Show_Skeleton.cs  code to show the skelton of animation in unity application
